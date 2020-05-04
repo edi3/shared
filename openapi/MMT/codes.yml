@@ -7,7 +7,7 @@ info:
 paths: {}
 components:
   schemas:
-    ActionType_Сode:
+    ActionType_Code:
       enum:
       - '1'
       - '2'
@@ -129,7 +129,7 @@ components:
       - '118'
       type: string
       description: ''
-    AllowanceChargeIdentificationType_Сode:
+    AllowanceChargeIdentificationType_Code:
       enum:
       - '1'
       - '2'
@@ -237,7 +237,7 @@ components:
       - '105'
       type: string
       description: ''
-    AllowanceChargeReasonType_Сode:
+    AllowanceChargeReasonType_Code:
       enum:
       - '1'
       - '2'
@@ -346,7 +346,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    CargoOperationalCategoryType_Сode:
+    CargoOperationalCategoryType_Code:
       enum:
       - '1'
       - '2'
@@ -375,7 +375,7 @@ components:
       - '25'
       type: string
       description: ''
-    CargoType_Сode:
+    CargoType_Code:
       enum:
       - '0'
       - '1'
@@ -388,12 +388,12 @@ components:
       - '9'
       type: string
       description: ''
-    CommodityIdentificationType_Сode:
+    CommodityIdentificationType_Code:
       enum:
       - ZZZ
       type: string
       description: ''
-    CommunicationMeansType_Сode:
+    CommunicationMeansType_Code:
       enum:
       - AA
       - AB
@@ -444,7 +444,7 @@ components:
       - XJ
       type: string
       description: ''
-    ContactFunctionType_Сode:
+    ContactFunctionType_Code:
       enum:
       - AA
       - AB
@@ -551,7 +551,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    CustomsDutyRegimeType_Сode:
+    CustomsDutyRegimeType_Code:
       enum:
       - '1'
       - '2'
@@ -560,7 +560,7 @@ components:
       - '9'
       type: string
       description: ''
-    DangerousGoodsPackingType_Сode:
+    DangerousGoodsPackingType_Code:
       enum:
       - '1'
       - '2'
@@ -568,7 +568,7 @@ components:
       - '4'
       type: string
       description: ''
-    DangerousGoodsRegulationType_Сode:
+    DangerousGoodsRegulationType_Code:
       enum:
       - ADR
       - ADS
@@ -592,7 +592,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    DeliveryTermsFunctionType_Сode:
+    DeliveryTermsFunctionType_Code:
       enum:
       - '1'
       - '2'
@@ -604,7 +604,7 @@ components:
       - '8'
       type: string
       description: ''
-    DeliveryTermsType_Сode:
+    DeliveryTermsType_Code:
       enum:
       - '1'
       - '2'
@@ -621,7 +621,7 @@ components:
       - FOB
       type: string
       description: ''
-    DimensionType_Сode:
+    DimensionType_Code:
       enum:
       - '1'
       - '2'
@@ -649,7 +649,7 @@ components:
       - '24'
       type: string
       description: ''
-    DocumentNameType_Сode:
+    DocumentNameType_Code:
       enum:
       - '1'
       - '2'
@@ -1439,7 +1439,7 @@ components:
       - '998'
       type: string
       description: ''
-    DocumentStatusType_Сode:
+    DocumentStatusType_Code:
       enum:
       - '1'
       - '2'
@@ -1482,7 +1482,7 @@ components:
       - '39'
       type: string
       description: ''
-    DutyTaxFeeType_Сode:
+    DutyTaxFeeType_Code:
       enum:
       - AAA
       - AAB
@@ -1540,7 +1540,7 @@ components:
       - VAT
       type: string
       description: ''
-    DutyorTaxorFeeCategoryType_Сode:
+    DutyorTaxorFeeCategoryType_Code:
       enum:
       - A
       - AA
@@ -1565,7 +1565,7 @@ components:
       - Z
       type: string
       description: ''
-    EquipmentSizeTypeDescriptionType_Сode:
+    EquipmentSizeTypeDescriptionType_Code:
       enum:
       - '1'
       - '2'
@@ -1611,7 +1611,7 @@ components:
       - '47'
       type: string
       description: ''
-    EquipmentSupplierType_Сode:
+    EquipmentSupplierType_Code:
       enum:
       - '1'
       - '2'
@@ -1622,7 +1622,7 @@ components:
       - '7'
       type: string
       description: ''
-    EventTimeReferenceType_Сode:
+    EventTimeReferenceType_Code:
       enum:
       - '1'
       - '2'
@@ -1691,12 +1691,12 @@ components:
       - ZZZ
       type: string
       description: ''
-    FreightChargeQuantityUnitBasisType_Сode:
+    FreightChargeQuantityUnitBasisType_Code:
       enum:
       - ZZZ
       type: string
       description: ''
-    FreightChargeTariffType_Сode:
+    FreightChargeTariffType_Code:
       enum:
       - A
       - B
@@ -1712,7 +1712,7 @@ components:
       - S
       type: string
       description: ''
-    FreightCostType_Сode:
+    FreightCostType_Code:
       enum:
       - '100000'
       - '100999'
@@ -3247,17 +3247,17 @@ components:
       - '609144'
       type: string
       description: ''
-    GoodsTypeExtensionType_Сode:
+    GoodsTypeExtensionType_Code:
       enum:
       - ZZZ
       type: string
       description: ''
-    GoodsType_Сode:
+    GoodsType_Code:
       enum:
       - ZZZ
       type: string
       description: ''
-    GovernmentActionType_Сode:
+    GovernmentActionType_Code:
       enum:
       - '1'
       - '2'
@@ -3271,7 +3271,7 @@ components:
       - '10'
       type: string
       description: ''
-    LocationFunctionType_Сode:
+    LocationFunctionType_Code:
       enum:
       - '1'
       - '2'
@@ -3580,7 +3580,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    MarkingInstructionType_Сode:
+    MarkingInstructionType_Code:
       enum:
       - '1'
       - '2'
@@ -3634,7 +3634,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    MessageFunctionType_Сode:
+    MessageFunctionType_Code:
       enum:
       - '1'
       - '2'
@@ -3707,7 +3707,7 @@ components:
       - '69'
       type: string
       description: ''
-    PackageType_Сode:
+    PackageType_Code:
       enum:
       - 1A
       - 1B
@@ -4088,7 +4088,7 @@ components:
       - ZZ
       type: string
       description: ''
-    PackagingLevelType_Сode:
+    PackagingLevelType_Code:
       enum:
       - '1'
       - '2'
@@ -4098,7 +4098,7 @@ components:
       - '6'
       type: string
       description: ''
-    PartyRoleType_Сode:
+    PartyRoleType_Code:
       enum:
       - AA
       - AB
@@ -4707,7 +4707,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PaymentGuaranteeMeansType_Сode:
+    PaymentGuaranteeMeansType_Code:
       enum:
       - '1'
       - '10'
@@ -4723,7 +4723,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PaymentMeansChannelType_Сode:
+    PaymentMeansChannelType_Code:
       enum:
       - '1'
       - '2'
@@ -4743,7 +4743,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PaymentMeansType_Сode:
+    PaymentMeansType_Code:
       enum:
       - '1'
       - '2'
@@ -4829,7 +4829,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PaymentMethodType_Сode:
+    PaymentMethodType_Code:
       enum:
       - '1'
       - '2'
@@ -4885,7 +4885,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PaymentTermsType_Сode:
+    PaymentTermsType_Code:
       enum:
       - '1'
       - '2'
@@ -4968,7 +4968,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    PriceType_Сode:
+    PriceType_Code:
       enum:
       - AA
       - AB
@@ -5001,7 +5001,7 @@ components:
       - WI
       type: string
       description: ''
-    PriorityDescriptionType_Сode:
+    PriorityDescriptionType_Code:
       enum:
       - '1'
       - '2'
@@ -5011,7 +5011,7 @@ components:
       - '6'
       type: string
       description: ''
-    ReferenceType_Сode:
+    ReferenceType_Code:
       enum:
       - AAA
       - AAB
@@ -5832,7 +5832,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    ResponsibleAgencyInvolvementType_Сode:
+    ResponsibleAgencyInvolvementType_Code:
       enum:
       - '1'
       - '2'
@@ -5844,7 +5844,7 @@ components:
       - '8'
       type: string
       description: ''
-    ResponsibleAgencyType_Сode:
+    ResponsibleAgencyType_Code:
       enum:
       - '1'
       - '2'
@@ -5867,7 +5867,7 @@ components:
       - '19'
       type: string
       description: ''
-    SealConditionType_Сode:
+    SealConditionType_Code:
       enum:
       - '1'
       - '2'
@@ -5876,12 +5876,12 @@ components:
       - '5'
       type: string
       description: ''
-    SealType_Сode:
+    SealType_Code:
       enum:
       - ZZZ
       type: string
       description: ''
-    SealingPartyRoleType_Сode:
+    SealingPartyRoleType_Code:
       enum:
       - AA
       - AB
@@ -5892,7 +5892,7 @@ components:
       - TO
       type: string
       description: ''
-    StatusType_Сode:
+    StatusType_Code:
       enum:
       - '1'
       - '2'
@@ -6247,7 +6247,7 @@ components:
       - '379'
       type: string
       description: ''
-    TemperatureType_Сode:
+    TemperatureType_Code:
       enum:
       - '1'
       - '2'
@@ -6260,7 +6260,7 @@ components:
       - '9'
       type: string
       description: ''
-    TransportEquipmentCategoryType_Сode:
+    TransportEquipmentCategoryType_Code:
       enum:
       - AA
       - AB
@@ -6360,7 +6360,7 @@ components:
       - UL
       type: string
       description: ''
-    TransportEquipmentFullnessType_Сode:
+    TransportEquipmentFullnessType_Code:
       enum:
       - '1'
       - '2'
@@ -6377,19 +6377,19 @@ components:
       - '13'
       type: string
       description: ''
-    TransportEquipmentHaulageArrangementsType_Сode:
+    TransportEquipmentHaulageArrangementsType_Code:
       enum:
       - '1'
       - '2'
       type: string
       description: ''
-    TransportEquipmentMovementLegalStatusType_Сode:
+    TransportEquipmentMovementLegalStatusType_Code:
       enum:
       - '7'
       - '8'
       type: string
       description: ''
-    TransportEquipmentMovementStatusType_Сode:
+    TransportEquipmentMovementStatusType_Code:
       enum:
       - '2'
       - '3'
@@ -6397,7 +6397,7 @@ components:
       - '8'
       type: string
       description: ''
-    TransportEquipmentOperationalStatusType_Сode:
+    TransportEquipmentOperationalStatusType_Code:
       enum:
       - '4'
       - '5'
@@ -6424,7 +6424,7 @@ components:
       - '30'
       type: string
       description: ''
-    TransportMeansDirectionType_Сode:
+    TransportMeansDirectionType_Code:
       enum:
       - BS
       - SB
@@ -6437,7 +6437,7 @@ components:
       - ZZZ
       type: string
       description: ''
-    TransportMeansType_Сode:
+    TransportMeansType_Code:
       enum:
       - '1'
       - '31'
@@ -6720,7 +6720,7 @@ components:
       - '8454'
       type: string
       description: ''
-    TransportModeType_Сode:
+    TransportModeType_Code:
       enum:
       - '0'
       - '1'
@@ -6734,7 +6734,7 @@ components:
       - '9'
       type: string
       description: ''
-    TransportMovementStageType_Сode:
+    TransportMovementStageType_Code:
       enum:
       - '1'
       - '2'
@@ -6768,7 +6768,7 @@ components:
       - '34'
       type: string
       description: ''
-    TransportMovementType_Сode:
+    TransportMovementType_Code:
       enum:
       - '1'
       - '2'
@@ -6777,7 +6777,7 @@ components:
       - '5'
       type: string
       description: ''
-    TransportPaymentArrangementType_Сode:
+    TransportPaymentArrangementType_Code:
       enum:
       - A
       - B
@@ -6785,7 +6785,7 @@ components:
       - P
       type: string
       description: ''
-    TransportServiceCategoryType_Сode:
+    TransportServiceCategoryType_Code:
       enum:
       - '1'
       - '2'
@@ -6812,7 +6812,7 @@ components:
       - '24'
       type: string
       description: ''
-    TransportServiceConditionType_Сode:
+    TransportServiceConditionType_Code:
       enum:
       - '1'
       - '2'
@@ -6855,7 +6855,7 @@ components:
       - '40'
       type: string
       description: ''
-    TransportServicePriorityType_Сode:
+    TransportServicePriorityType_Code:
       enum:
       - '1'
       - '2'
@@ -6863,7 +6863,7 @@ components:
       - '4'
       type: string
       description: ''
-    TransportServiceRequirementType_Сode:
+    TransportServiceRequirementType_Code:
       enum:
       - '1'
       - '2'
@@ -6933,7 +6933,7 @@ components:
       - '66'
       type: string
       description: ''
-    TransportStatusType_Сode:
+    TransportStatusType_Code:
       enum:
       - '1'
       - '2'
