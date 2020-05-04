@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.0
 info:
-  description: ''
+  description: 'Shared ISO codes'
   title: ISO Codes
   version: ''
 paths: {}
@@ -259,7 +259,7 @@ components:
         - ZM
         - ZW
       type: string
-      description: ''
+      description: 'Country codes, defines codes for the names of countries, dependent territories, and special areas of geographical interest.'
     ISO4217_Code:
       enum:
         - AED
@@ -442,7 +442,7 @@ components:
         - ZMW
         - ZWL
       type: string
-      description: ''
+      description: 'Current currency & funds code list'
     ISO639_Code:
       enum:
         - AA
@@ -632,4 +632,4 @@ components:
         - ZU
         - mo
       type: string
-      description: ''
+      description: 'The language codes'
